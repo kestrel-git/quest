@@ -14,10 +14,10 @@
 - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
 ##### 
 클래스 부분이 잘 생성되었고, 오류없이 작동됩니다.
-![img](https://drive.google.com/file/d/1NdGPTyPH3KABl9RaPAGrKQyEVA4oGYcZ/view?usp=drive_link)
+[img](https://drive.google.com/file/d/1NdGPTyPH3KABl9RaPAGrKQyEVA4oGYcZ/view?usp=drive_link)
 ##### 
 제시된 문제들은 잘해결되었고, 모두 정상작동하였습니다. 
-![img](https://drive.google.com/file/d/1OKIjb4pMgKJm7-xdVHF_ZFvxWycTYQmI/view?usp=drive_link)
+[img](https://drive.google.com/file/d/1OKIjb4pMgKJm7-xdVHF_ZFvxWycTYQmI/view?usp=drive_link)
 
 [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 	주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -27,7 +27,7 @@
 	- 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 ##### 
 단계마다 주석을 가독성있게 잘달아주셔서 이해하는데 크게 어렵지 않았습니다!
-![img](https://drive.google.com/file/d/1BqZGYpmZF5xHhPOYc8_28i3HvRFCtC02/view?usp=drive_link)
+[img](https://drive.google.com/file/d/1BqZGYpmZF5xHhPOYc8_28i3HvRFCtC02/view?usp=drive_link)
         
 [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록"을 남겼거나 "새로운 시도 
 또는 추가 실험"을 수행해봤나요?**
@@ -36,7 +36,7 @@
 	- 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 ##### 
 당첨시뮬레이션과 마이너스 통장 부분이 신선하고 좋았습니다!
-![img](https://drive.google.com/file/d/183KwVdVEsAg9xnl8nGSh650lQYfhWaj8/view?usp=drive_link)
+[img](https://drive.google.com/file/d/183KwVdVEsAg9xnl8nGSh650lQYfhWaj8/view?usp=drive_link)
         
 [ ]  **4. 회고를 잘 작성했나요?**
 - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해 배운점과 아쉬운점, 느낀점 등이 상세히 기록되어 있는지 확인
@@ -50,7 +50,7 @@
 전반적으로 잘준수하셨습니다!
 ##### 
 저는 숫자로 표현했는데 윤희님께서 표현해주신 'acc_num ='형태가 더 간결하고 좋은 것 같습니다.
-![img](https://drive.google.com/file/d/1vGODfiDyk1EYz524scGp0upyN2uq4EJR/view?usp=drive_link)
+[img](https://drive.google.com/file/d/1vGODfiDyk1EYz524scGp0upyN2uq4EJR/view?usp=drive_link)
 ##### 
 윤희님 코드를 보며 이렇게 작성할 수 있었구나를 많이 느꼈습니다. 
 저희가 작성한 코드도 메시지 등을 별도 설정 파일이나 모듈로 분리하면 가독성이 좋아질 것 같고, 
